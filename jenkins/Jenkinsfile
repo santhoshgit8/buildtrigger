@@ -1,8 +1,8 @@
 pipeline{
     agent any
    stages{
-    stage("building the code"){
-        step{
+    stage("building other code"){
+        steps{
         echo "hi you have nothing here"
 
      }
